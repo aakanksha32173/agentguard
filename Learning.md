@@ -1,4 +1,3 @@
-I'll pull up both postings and extract the skill keywords, then explain pre-commit.
 
 "OpenAI Emerging Talent" is a hiring track rather than one posting, so I used its main technical role, **Software Engineer, Applied Emerging Talent (2027)**. For Anthropic I used the main **Fellows Program** posting, which covers all five workstreams.
 
